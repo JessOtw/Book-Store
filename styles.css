@@ -1,0 +1,6 @@
+<style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        #bookList { margin: 20px auto; width: 60%; }
+        .book-item { padding: 10px; border-bottom: 1px solid #ddd; }
+        .book-item button { margin-left: 10px; }
+    </style>
